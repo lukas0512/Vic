@@ -1,0 +1,4 @@
+#Mon Aug 26 17:04:44 BRT 2019
+base.0=/home/lucas/bitbucket/vic-reactnative/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
